@@ -1,0 +1,31 @@
+body {
+    background-color: #9e9e9e;
+    color: #333;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+}
+
+.container1 {
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    padding: 40px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.hidden {
+    display: none;
+}
+
+#surpriseMessage {
+    margin-top: 30px;
+    font-size: 1.3em;
+    color: #8e44ad;
+}
+
+
+
+
+  
